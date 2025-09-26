@@ -1,1 +1,1 @@
-# sakhreyah.github.io
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musab-sakhrieh/) [![Email](https://img.shields.io/badge/Email%3A-mosabkhaled1998%40gmail.com-black?logo=gmail&labelColor=blue)](mailto:mosabkhaled1998@gmail.com)
